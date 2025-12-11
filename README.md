@@ -1,14 +1,17 @@
-# Mohamed Obaya
+# Hi there, I'm Mohamed Obaya
 
 ## About Me
 Software Engineer focused on **Frontend and Cross-Platform Development** for web and mobile applications. I'm passionate about building responsive, user-friendly apps and translating UI/UX designs into clean, functional interfaces.
 
 - **ITI Graduate** - Completed intensive training in web and mobile development (Jul 2025 – Dec 2025)
-- Bachelor's Degree in Computer Science and Engineering from **German University in Cairo**
 - Built real-world projects using **ReactJS** and **React Native**
+- Bachelor's Degree in Computer Science and Engineering from **German University in Cairo**
 - Actively seeking opportunities in Frontend and Cross-Platform Development
 - Based in Cairo, Egypt
-- Contact: mohamed.ali.obaya@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-obaya/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.ali.obaya@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedobaya)
 
 ## Tech Stack
 
@@ -46,12 +49,6 @@ Software Engineer focused on **Frontend and Cross-Platform Development** for web
 *Bachelor's Degree in Computer Science and Engineering | 2017 – 2022*
 - Grade: Very Good
 - Thesis: Lane Detection System using Python & OpenCV (Grade: Excellent)
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-obaya/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.ali.obaya@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedobaya)
 
 ---
 
