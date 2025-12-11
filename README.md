@@ -4,8 +4,8 @@
 Software Engineer focused on **Frontend and Cross-Platform Development** for web and mobile applications. I'm passionate about building responsive, user-friendly apps and translating UI/UX designs into clean, functional interfaces.
 
 - **ITI Graduate** - Completed intensive training in web and mobile development (Jul 2025 – Dec 2025)
-- Built real-world projects using **ReactJS** and **React Native**
 - Bachelor's Degree in Computer Science and Engineering from **German University in Cairo**
+- Built real-world projects using **ReactJS** and **React Native**
 - Actively seeking opportunities in Frontend and Cross-Platform Development
 - Based in Cairo, Egypt
 
